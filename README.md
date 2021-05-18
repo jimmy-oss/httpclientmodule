@@ -1,7 +1,7 @@
  # HttpClientModule
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 # PROJECT DESCRIPTION
- HttpClientModule added the imports array. We are going to use this module to access a random quote API and display the quotes on our app.you'll see a random quote that changes every time you refresh the webpage.
+Its about a  HttpClientModule which is able to add the imports array. We access a random quote API and display the quotes on our app.you'll see a random quote that changes every time you refresh the webpage.
 
 # TECHNOLOGIES USED
  These are:<ul>
